@@ -1,4 +1,4 @@
-# 📊 Sales Dashboard (Excel)
+# 📊 Dynamic Excel Dashboard for Ecommerce Sales Analysis| Microsoft Excel
 
 ## 📌 Project Overview
 This Excel-based dashboard analyzes product performance and profitability. Built using formulas like VLOOKUP, SUMIFS, and PivotTables, it provides actionable insights through interactive filters.
