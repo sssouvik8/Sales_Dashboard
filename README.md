@@ -16,7 +16,7 @@ This Excel-based dashboard analyzes product performance and profitability. Built
 - 🙋‍♂️ Top 5 Customers (with Slicers)
 
 ## 📁 Files Included
-- `Sales_Dashboard.xlsx` – Interactive Excel dashboard
+- `Dynamic_Excel_Dashboard.xlsx` – Interactive Excel dashboard
 - `screenshots/dashboard.png` – Visual preview of the dashboard
 
 ## 🗂️ Dataset Source
